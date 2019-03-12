@@ -9,6 +9,11 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
+func TestVersion(t *testing.T) {
+	if version, err := ok.Connect(t, "tcp://127.0.0.1:9000?debug=0").Version(); assert.NoError(t, err) {
+		t.Logf("ClickHouse server version: %s", version)
+	}
+}
 func TestSelect1(t *testing.T) {
 	var (
 		value int
