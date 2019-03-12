@@ -1,4 +1,4 @@
-# github.com/ClickHouse-Ninja/ok v0.0.0-20190312124358-b9bb65c2e847
+# github.com/ClickHouse-Ninja/ok v0.0.0-20190312185058-846745851039
 github.com/ClickHouse-Ninja/ok
 # github.com/cloudflare/golz4 v0.0.0-20150217214814-ef862a3cdc58
 github.com/cloudflare/golz4

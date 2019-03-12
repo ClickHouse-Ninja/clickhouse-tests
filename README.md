@@ -1,1 +1,1 @@
-# clickhouse-tests
+# clickhouse-tests [![Build Status](https://travis-ci.org/ClickHouse-Ninja/clickhouse-tests.svg?branch=master)](https://travis-ci.org/ClickHouse-Ninja/clickhouse-tests)

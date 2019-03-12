@@ -1,5 +1,7 @@
 github.com/ClickHouse-Ninja/ok v0.0.0-20190312124358-b9bb65c2e847 h1:vJmc4f2k48vOLDb20egP+3O9PzyLzlpTu0TzXVJ6LrE=
 github.com/ClickHouse-Ninja/ok v0.0.0-20190312124358-b9bb65c2e847/go.mod h1:D9djw9JRterFpCPgiBzl9TH7gn877ZueSsTipAFE2Ek=
+github.com/ClickHouse-Ninja/ok v0.0.0-20190312185058-846745851039 h1:DRB9SwU5WiuRkKRyEoqFrXLgusuxZXSgyDAOXQxkfHI=
+github.com/ClickHouse-Ninja/ok v0.0.0-20190312185058-846745851039/go.mod h1:D9djw9JRterFpCPgiBzl9TH7gn877ZueSsTipAFE2Ek=
 github.com/bkaradzic/go-lz4 v1.0.0 h1:RXc4wYsyz985CkXXeX04y4VnZFGG8Rd43pRaHsOXAKk=
 github.com/bkaradzic/go-lz4 v1.0.0/go.mod h1:0YdlkowM3VswSROI7qDxhRvJ3sLhlFrRRwjwegp5jy4=
 github.com/cloudflare/golz4 v0.0.0-20150217214814-ef862a3cdc58 h1:F1EaeKL/ta07PY/k9Os/UFtwERei2/XzGemhpGnBKNg=
@@ -14,5 +16,6 @@ github.com/pierrec/lz4 v2.0.5+incompatible/go.mod h1:pdkljMzZIN41W+lC3N2tnIh5sFi
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0Q=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
