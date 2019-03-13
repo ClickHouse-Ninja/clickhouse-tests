@@ -24,7 +24,7 @@ func TestSelect1(t *testing.T) {
 	}
 }
 
-func TestDatabaseExists(t *testing.T) {
+func TestDatabaseAndTableExists(t *testing.T) {
 	ok := ok.Connect(t, "tcp://127.0.0.1:9000?debug=0")
 	if assert.True(t, ok.DatabaseExists("system")) {
 		for _, table := range []string{"clusters", "databases", "functions", "parts", "tables"} {
